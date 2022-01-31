@@ -22,6 +22,6 @@ app.get('*', (req, res) =>
 
 
 app.listen(PORT, () =>
-  console.log(`App listening at Heroku or http://localhost:${PORT} 🚀`)
+  console.log(`App listening at Heroku: https://powerful-sea-50885.herokuapp.com/ or http://localhost:${PORT} 🚀`)
 );
 
