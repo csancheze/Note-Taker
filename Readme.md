@@ -28,7 +28,7 @@ Open it in your browser. Use the plus button in the top-right corner to create a
 
   
   
-![Note Taker webpage working as expected](assets/images/screenshot.png)
+![Note Taker webpage working as expected](assets/screenshot.png)
   
   ## License
   
